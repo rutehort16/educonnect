@@ -24,6 +24,12 @@ Toastify.js
 
 # Como Rodar o Projeto
 baixar este repositório>> extrair pasta>> instalar VS code>> instalar live server>> abrir index.HTML com live server(botão direito do mouse)
+Aluno 
+email: "usuario@usuario.com",
+        password: "123123"
+Empresa
+email: empresa@empresa.com
+password:123123
 
 # Considerações
 Os dados são salvos apenas no navegador (Local Storage)
